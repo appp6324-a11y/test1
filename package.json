@@ -1,3 +1,4 @@
+/* REAL APP — frontend */
 {
   "name": "labour-mandi",
   "version": "0.1.0",
@@ -25,8 +26,8 @@
     "@radix-ui/react-popover": "^1.0.0",
     "@radix-ui/react-toggle": "^1.0.0",
     "@radix-ui/react-dialog": "^1.0.0",
-    "firebase": "^10.0.0",
-    "stripe": "^14.0.0",
+    "firebase": "^10.16.0",
+    "stripe": "^14.15.0",
     "axios": "^1.5.0",
     "clsx": "^1.2.1",
     "framer-motion": "^10.12.16",
@@ -41,7 +42,7 @@
     "@typescript-eslint/parser": "^6.2.0",
     "eslint": "^8.49.0",
     "eslint-config-next": "14.0.0",
-    "prettier": "^3.8.1",
+    "prettier": "^3.8.8",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.2",
     "cypress": "^12.15.0",
